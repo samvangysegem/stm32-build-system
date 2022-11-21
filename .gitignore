@@ -1,0 +1,6 @@
+# Build folder
+/build
+
+# Debug files
+.cortex-debug.peripherals.state.json
+.cortex-debug.registers.state.json
